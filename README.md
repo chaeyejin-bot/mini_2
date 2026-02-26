@@ -1,12 +1,15 @@
 # mini_2
 
 ## 프로젝트 설명
-카드고릴라 데이터 분석 프로젝트
+카드고릴라 사이트 크롤링을 통한 사용자 혜택 기반 카드 추천 챗봇 개발
+https://samu9om3kqxae23lpibnwu.streamlit.app/
 
 ## 사용 기술
 - Python
+- selenium
 - Pandas
-- Streamlit (사용했다면)
+- langchain
+- Streamlit 
 
 ## 실행 방법
 pip install -r requirements.txt
